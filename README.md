@@ -30,7 +30,7 @@ FoodHunt is a food ordering web application built with React.js ⚛ and Swiggy's
 1. Clone the repo
 
 ```bash
-git clone https://github.com/DineshRout779/FoodHunt
+git clone https://github.com/Vikash0122/Foodie.git
 ```
 
 2. Install dependencies
